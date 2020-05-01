@@ -13,7 +13,9 @@ const styles = StyleSheet.create({
 export default function App() {
   return (
     <View style={styles.container}>
-      <Sample />
+      <Sample>
+        <Text>User App Test</Text>
+      </Sample>
     </View>
   );
 }

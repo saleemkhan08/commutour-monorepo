@@ -25,8 +25,9 @@ Happy code sharing :)
 
 Huge shout-out to https://github.com/benawad and https://github.com/DNature
 
-You can watch Ben's video tutorial in the following link :
-https://youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn
+You can watch Ben's video tutorial in the following link :<br />
+https://youtube.com/playlist?list=PLN3n1USn4xll9wq0rw0ECrO0j2PFzuXtn<br />
+https://github.com/benawad/react-native-web-series/
 
-You can see DNature's repo on which this monorepo was built, in the following link :
+You can see DNature's repo on which this monorepo was built, in the following link :<br />
 https://github.com/DNature/expo-yarn-workspace-demo

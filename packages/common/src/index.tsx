@@ -10,10 +10,11 @@ const styles = StyleSheet.create({
   }
 });
 
-const Sample = (): ReactElement => {
+const Sample = ({ children }): ReactElement => {
   return (
     <View style={styles.container}>
-      <Text>Sample Text New Change</Text>
+      <Text>{"It's Actually Working Now"}</Text>
+      {children}
     </View>
   );
 }

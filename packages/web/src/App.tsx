@@ -2,6 +2,7 @@ import React from "react";
 import logo from "./logo.svg";
 import Sample from "@thnki/common";
 import "./App.css";
+import { View, Text } from "react-native"
 
 const App = () => {
   return (
@@ -9,7 +10,11 @@ const App = () => {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <Sample />
+          <Sample>
+            <View>
+              <Text> Web App Test</Text>
+            </View>
+          </Sample>
         </p>
       </header>
     </div>
